@@ -112,7 +112,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Slider Start
 --*/
 #slider {
-  background: url("../img/slime-bg.gif") no-repeat;
+  background: url("../img/zebraSnakes.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-position: 20% 0%;
